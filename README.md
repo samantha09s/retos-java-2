@@ -23,7 +23,7 @@
 
 ---
 
-## Sobre el proyecto
+## Sobre el Proyecto
 
 Este repositorio alberga mis soluciones a los retos del curso **Java SE 2** impartido por **Tecnolochicas x Bedu**.
 
@@ -51,7 +51,7 @@ Es perfecto si estás aprendiendo o quieres refrescar tus conocimientos en Java 
 
 ---
 
-## ¿Cómo ejecutar?
+## _¿Cómo Ejecutar?_
 
 Clona, compila y ejecuta fácilmente los retos en tu terminal:
 
@@ -74,7 +74,7 @@ java Main
 
 ---
 
-## ¿Quieres apoyarme?
+## _¿Quieres Apoyarme?_
 
 > [!NOTE]
 > 🌟 ¡Regálame una estrella en GitHub!
@@ -88,7 +88,7 @@ java Main
 
 ---
 
-## Créditos del curso
+## Créditos del Curso
 
 Este proyecto es resultado del genial curso:
 
