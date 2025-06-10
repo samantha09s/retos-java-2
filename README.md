@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<h1 align="center">Retos Java SE 2 — Tecnolochicas x Bedu (2025)</h1>
+<h1 align="center">☕ Retos Java SE 2 — Tecnolochicas x Bedu (2025)</h1>
 
 <p align="center">
   Repositorio con mis soluciones del curso <strong>Java Standard Edition 2</strong> organizado por <strong>Tecnolochicas</strong> junto con <strong>Bedu</strong>.
@@ -16,22 +16,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwNDNxYzlmbmF3azJ0ZWs3bTN6eTA0Z2p1MGhiaHE5cTZvajF4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" style="width: 280px; height: 280px; object-fit: cover; border-radius: 8px;"/>
-  <img src="https://i.pinimg.com/736x/62/3e/47/623e47d8744b74c238460ba22d0f57b7.jpg" style="width: 280px; height: 280px; object-fit: cover; border-radius: 8px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwNDNxYzlmbmF3azJ0ZWs3bTN6eTA0Z2p1MGhiaHE5cTZvajF4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="280" height="280" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="https://i.pinimg.com/736x/62/3e/47/623e47d8744b74c238460ba22d0f57b7.jpg" width="280" height="280" style="object-fit: cover; border-radius: 8px;"/>
 </div>
-
----
-
-## Tabla de Contenidos
-
-- [Sobre el Proyecto](sobre-el-proyecto)
-- [Retos y Progresos](retos-y-progresos)
-- [Cómo Ejecutar](#-cómo-ejecutar)
-- [Demo & Capturas](#-demo--capturas)
-- [Apóyame](#-apóyame)
-- [Comparte](#-comparte)
-- [Créditos del Curso](#-créditos-del-curso)
-- [Licencia](#-licencia)
 
 ---
 
@@ -60,7 +47,7 @@ Está enfocado en fortalecer habilidades como:
 
 ---
 
-## ⚙️ Cómo Ejecutar
+## Cómo Ejecutar
 
 ```bash
 # Clona el proyecto
@@ -75,63 +62,59 @@ javac *.java
 
 # Ejecuta
 java Main
-````
+```
 
 ---
 
-## 📸 Demo & Capturas
+## Demo & Capturas
 
 > GIFs o imágenes destacando tus retos pueden ir aquí, como demos visuales.
 
 ---
 
-## 🌟 ¡Apóyame!
+## ¡Apóyame!
 
-Si este proyecto te ayudó o inspiró:
-**¡Dale una ⭐ en GitHub, es totalmente gratis y significa mucho!**
+Si este proyecto te ayudó o inspiró:  
+**¡Dale una ⭐ en GitHub, significa mucho!**
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-samantha09s-181717?logo=github\&style=for-the-badge)](https://github.com/samantha09s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samanthamunguia-0A66C2?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/samanthamunguia/)
-
+  <a href="https://github.com/samantha09s"><img src="https://img.shields.io/badge/GitHub-samantha09s-181717?logo=github&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/samanthamunguia/"><img src="https://img.shields.io/badge/LinkedIn-samanthamunguia-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
 
-## 📣 Comparte
+## ¡Compártelo con tu comunidad!
 
-¿Te gustó este repo? ¡Compártelo en tus redes!
+¿Te gustó este repositorio o conoces a alguien que está aprendiendo Java?  
+¡Compártelo en tus redes y sigamos creciendo juntas/os en tecnología! 🚀
 
-[![X](https://img.shields.io/badge/share-000000?logo=x\&logoColor=white)](https://x.com/intent/tweet?text=Estoy%20haciendo%20el%20curso%20de%20Java%20SE%202%20con%20Tecnolochicas%20x%20Bedu%20%F0%9F%92%BB%20Mira%20mi%20repo:%20https://github.com/samantha09s/retos-java-2)
-[![Facebook](https://img.shields.io/badge/share-1877F2?logo=facebook\&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/samantha09s/retos-java-2)
-[![LinkedIn](https://img.shields.io/badge/share-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/samantha09s/retos-java-2)
-[![Telegram](https://img.shields.io/badge/share-0088CC?logo=telegram\&logoColor=white)](https://t.me/share/url?url=https://github.com/samantha09s/retos-java-2&text=Aprendiendo%20Java%20con%20Tecnolochicas%20x%20Bedu)
+<div align="center">
+  <a href="https://x.com/intent/tweet?text=Estoy%20haciendo%20el%20curso%20de%20Java%20SE%202%20con%20Tecnolochicas%20x%20Bedu%20%F0%9F%92%BB%20Mira%20mi%20repo:%20https://github.com/samantha09s/retos-java-2"><img src="https://img.shields.io/badge/Compartir_en_X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://github.com/samantha09s/retos-java-2"><img src="https://img.shields.io/badge/Compartir_en_Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/samantha09s/retos-java-2"><img src="https://img.shields.io/badge/Compartir_en_LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://t.me/share/url?url=https://github.com/samantha09s/retos-java-2&text=Aprendiendo%20Java%20con%20Tecnolochicas%20x%20Bedu"><img src="https://img.shields.io/badge/Compartir_en_Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" /></a>
+</div>
 
 ---
 
-## 📚 Créditos del Curso
+## Créditos del Curso
 
 Este proyecto nace del programa:
 
-🎓 **Java SE 2 (2025)**
-🤝 Una colaboración entre **Tecnolochicas** y **Bedu**
-🚀 Impulsando el desarrollo profesional de mujeres en tecnología.
+- **Java SE 2 (2025)**
+- La colaboración entre **Tecnolochicas** y **Bedu**
+- Impulsando el desarrollo profesional de mujeres en tecnología
 
-> Gracias por esta increíble experiencia de aprendizaje 🙌
-
----
-
-## 🪪 Licencia
-
-Este repositorio está bajo la licencia [MIT](./LICENSE).
-Libre para usar, modificar y compartir. ¡Código abierto para crecer juntas/os!
+> ¡Gracias por esta increíble experiencia de aprendizaje!
 
 ---
 
-<p align="center"><a href="#top">🔝 Volver arriba</a></p>
-```
+## Licencia
+
+Este repositorio está bajo la licencia GPL-3.0 license.  
+Libre para usar, modificar y compartir. ¡Código abierto para crecer juntas!
 
 ---
 
-¿Quieres que te lo empaquete como archivo `.md` listo para subir o te ayudo a automatizar esta plantilla para futuros cursos? 🔧✨
+<p align="center"><a href="#top">🔝 ¡Volver arriba!</a></p>
