@@ -78,9 +78,26 @@ java Main
 
 ## 🔍 Galería y demos
 
-> _Muy pronto_: agregaré capturas de consola, diagramas de flujo y mini GIFs explicativos para que se entienda mejor la lógica de cada reto. 
+<a name="demo"></a>
 
-Reto 1: ![image](https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568)
+## 🔍 Galería y demos
+
+> Aquí te muestro cómo lucen y funcionan los retos que desarrollé como parte del curso.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="object-fit: cover; border-radius: 8px;" alt="Reto 01 demo"/>
+        <p><strong>Reto 01:</strong> Gestión de órdenes en planta industrial<br/>📦 Producción en masa, personalizada y prototipos.<br/>✅ Uso de herencia, composición y operaciones genéricas.</p>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="object-fit: cover; border-radius: 8px;" alt="Reto 02 demo"/>
+        <p><strong>Reto 02:</strong> Gestión de materiales de curso<br/>🎥 Videos, 📄 artículos y 📝 ejercicios.<br/>✅ Filtrado, conteo y actualización con genéricos.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
