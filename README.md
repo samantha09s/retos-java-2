@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ Sobre este repositorio
+## ✨ Sobre este Repositorio
 
 Este es mi portafolio de retos del curso **Java SE 2 (2025)** impartido por **Tecnolochicas x Bedu**. 
 
@@ -28,20 +28,20 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 ---
 
-## 📚 Tabla de contenidos
+## 📚 Tabla de Contenidos
 
-- [Retos y progreso](#retos)
-- [Ejecutar los retos localmente](#ejecutar)
-- [Galería y demos](#demo)
-- [Créditos del curso](#creditos)
-- [Contacto y redes](#contacto)
+- [Retos y rogreso](#retos)
+- [Ejecutar los Retos Localmente](#ejecutar)
+- [Galería y Demos](#demo)
+- [Créditos del Curso](#creditos)
+- [Contacto y Redes](#contacto)
 - [Licencia](#licencia)
 
 ---
 
 <a name="retos"></a>
 
-## 🚀 Retos y progreso
+## 🚀 Retos y Progreso
 
 | Reto     | Tema Principal                      | Estado      | Ver código |
 |----------|-------------------------------------|-------------|--------------|
@@ -57,7 +57,7 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 <a name="ejecutar"></a>
 
-## 📄 Ejecutar los retos localmente
+## 📄 Ejecutar los Retos Localmente
 
 ```bash
 git clone https://github.com/samantha09s/retos-java-2.git
@@ -76,11 +76,7 @@ java Main
 
 <a name="demo"></a>
 
-## 🔍 Galería y demos
-
-<a name="demo"></a>
-
-## 🔍 Galería y demos
+## 🔍 Galería y Demos
 
 > Aquí te muestro cómo lucen y funcionan los retos que desarrollé como parte del curso.
 
@@ -103,7 +99,7 @@ java Main
 
 <a name="creditos"></a>
 
-## 📆 Créditos del curso
+## 📆 Créditos del Curso
 
 Este proyecto forma parte del curso intensivo:
 
@@ -117,7 +113,7 @@ Este proyecto forma parte del curso intensivo:
 
 <a name="contacto"></a>
 
-## 👤 Contacto y redes
+## 👤 Contacto y Redes
 
 <div align="center">
 
