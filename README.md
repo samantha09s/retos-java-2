@@ -78,18 +78,72 @@ java Main
 
 ## 🔍 Galería y Demos
 
-> Aquí te muestro cómo lucen y funcionan los retos que desarrollé como parte del curso.
+> Aquí te muestro cómo lucen y funcionan algunos retos destacados del curso.
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="object-fit: cover; border-radius: 8px;" alt="Reto 01 demo"/>
-        <p><strong>Reto 01:</strong> Gestión de órdenes en planta industrial<br/>📦 Producción en masa, personalizada y prototipos.<br/>✅ Uso de herencia, composición y operaciones genéricas.</p>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="border-radius: 10px; object-fit: cover;" alt="Reto 01 planta industrial"/>
+        <p>
+          <strong>Reto 01:</strong> Producción industrial<br/>
+          📦 Herencia, Polimorfismo y Genéricos.
+        </p>
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="object-fit: cover; border-radius: 8px;" alt="Reto 02 demo"/>
-        <p><strong>Reto 02:</strong> Gestión de materiales de curso<br/>🎥 Videos, 📄 artículos y 📝 ejercicios.<br/>✅ Filtrado, conteo y actualización con genéricos.</p>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="border-radius: 10px; object-fit: cover;" alt="Reto 02 gestión curso"/>
+        <p>
+          <strong>Reto 02:</strong> Gestión de contenidos<br/>
+          🎥 Wildcards + operaciones genéricas.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/64cb3020-23b8-4bb3-b70b-16a57d8d1de1" width="380" height="240" style="border-radius: 10px;" alt="Sistemas espaciales"/>
+        <p>
+          <strong>Sistemas espaciales:</strong><br/>
+          🛰️ Simulación concurrente con <code>ExecutorService</code> y <code>Callable</code>.
+        </p>
+      </td>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/a3d23c0b-42ed-42b8-9f9c-65b14b9929e7" width="380" height="240" style="border-radius: 10px;" alt="Recurso médico"/>
+        <p>
+          <strong>Recurso médico:</strong><br/>
+          🔒 Control exclusivo con <code>ReentrantLock</code>.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/439c9828-2a5b-48d6-9f9e-05c43822bc43" width="380" height="240" style="border-radius: 10px;" alt="Pedidos pizzería"/>
+        <p>
+          <strong>Pizzería:</strong><br/>
+          📞 Confirmación segura con <code>Optional</code> y <code>Stream</code>.
+        </p>
+      </td>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/2acb16eb-d71b-4540-abaa-7607cbf3e01f" width="380" height="240" style="border-radius: 10px;" alt="Encuestas clínica"/>
+        <p>
+          <strong>Clínica:</strong><br/>
+          💬 Seguimiento funcional con <code>flatMap</code>.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/cad82150-751d-41c7-901c-ce336328fef1" width="380" height="240" style="border-radius: 10px;" alt="App movilidad"/>
+        <p>
+          <strong>App de movilidad:</strong><br/>
+          🛣️ Asincronía con <code>CompletableFuture</code> y <code>thenCombine</code>.
+        </p>
+      </td>
+      <td align="center" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/cb75bb10-7254-4d6e-93ed-9caa788295c5" width="380" height="240" style="border-radius: 10px;" alt="Aeropuerto"/>
+        <p>
+          <strong>Aeropuerto:</strong><br/>
+          ✈️ Condiciones paralelas con <code>allOf</code> + validación robusta.
+        </p>
       </td>
     </tr>
   </table>
