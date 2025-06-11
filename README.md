@@ -80,6 +80,8 @@ java Main
 
 > _Muy pronto_: agregaré capturas de consola, diagramas de flujo y mini GIFs explicativos para que se entienda mejor la lógica de cada reto. 
 
+Reto 1: ![image](https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568)
+
 ---
 
 <a name="creditos"></a>
