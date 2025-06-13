@@ -18,6 +18,26 @@
   <img src="https://img.shields.io/github/last-commit/samantha09s/retos-java-2?style=flat-square"/>
 </div>
 
+
+Reto 01: Gestión reactiva de sistemas críticos en Meridian Prime  ![image](https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a)
+Aspecto	Observación
+Simular un sistema reactivo y concurrente para detectar eventos críticos en una ciudad inteligente, utilizando Project Reactor con Flux. El código monitorea 5 sistemas (tráfico, aire, accidentes, trenes y semáforos), filtra eventos importantes y los imprime.
+Simular un sistema reactivo y concurrente para detectar eventos críticos en una ciudad inteligente, utilizando Project Reactor con Flux. El código monitorea 5 sistemas (tráfico, aire, accidentes, trenes y semáforos), filtra eventos importantes y los imprime.
+🔁 Repetición	Hay código duplicado en .map().filter().map() en todos los flujos. Se puede encapsular.
+💡 Nombres	SistemaMeridian es claro, pero iniciar() podría llamarse simularMonitoreo().
+⏱️ Lógica de tiempo	Thread.sleep(10000) bloquea el hilo principal: puede reemplazarse por blockLast() o keepAlive no bloqueante.
+📦 Backpressure	Solo se aplica en tráfico y trenes. Lo ideal es aplicarlo también en flujos con latencia corta como semáforos.
+📌 Comentarios	No hay ningún comentario que oriente al lector en decisiones técnicas clave (como uso de AtomicInteger).
+
+
+
+Tips para que se vea bien en GitHub:
+Mantén el width="380" para que quepan 2 columnas en pantallas medianas.
+
+Usa style="padding: 16px;" para evitar que el contenido quede “pegado”.
+
+GitHub soporta HTML inline, pero ignora CSS externos. Por eso usamos solo estilos básicos (border-radius, object-fit, etc).
+
 ---
 
 ## ✨ Sobre este Repositorio
