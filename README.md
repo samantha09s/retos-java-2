@@ -49,7 +49,10 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 | Sesión 1/Reto 02  | TEMA          | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
 | Sesión 2/Reto 01  | TEMA       | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial) |
 | Sesión 2/Reto 02  | TEMA        | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
-| Sesión 3/Reto 01  | TEMA              | ✅ Completo | [Ver archivo]([Pendiente](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria)) |
+| Sesión 3/Reto 01  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria) |
+| Sesión 3/Reto 02  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica) |
+| Sesión 4/Reto 01  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad) |
+| Sesión 4/Reto 02  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto) |
 
 > _Explora cada carpeta para ver el avance y los retos explicados paso a paso._
 
