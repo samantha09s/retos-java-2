@@ -18,26 +18,6 @@
   <img src="https://img.shields.io/github/last-commit/samantha09s/retos-java-2?style=flat-square"/>
 </div>
 
-
-Reto 01: Gestión reactiva de sistemas críticos en Meridian Prime  ![image](https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a)
-Aspecto	Observación
-Simular un sistema reactivo y concurrente para detectar eventos críticos en una ciudad inteligente, utilizando Project Reactor con Flux. El código monitorea 5 sistemas (tráfico, aire, accidentes, trenes y semáforos), filtra eventos importantes y los imprime.
-Simular un sistema reactivo y concurrente para detectar eventos críticos en una ciudad inteligente, utilizando Project Reactor con Flux. El código monitorea 5 sistemas (tráfico, aire, accidentes, trenes y semáforos), filtra eventos importantes y los imprime.
-🔁 Repetición	Hay código duplicado en .map().filter().map() en todos los flujos. Se puede encapsular.
-💡 Nombres	SistemaMeridian es claro, pero iniciar() podría llamarse simularMonitoreo().
-⏱️ Lógica de tiempo	Thread.sleep(10000) bloquea el hilo principal: puede reemplazarse por blockLast() o keepAlive no bloqueante.
-📦 Backpressure	Solo se aplica en tráfico y trenes. Lo ideal es aplicarlo también en flujos con latencia corta como semáforos.
-📌 Comentarios	No hay ningún comentario que oriente al lector en decisiones técnicas clave (como uso de AtomicInteger).
-
-
-
-Tips para que se vea bien en GitHub:
-Mantén el width="380" para que quepan 2 columnas en pantallas medianas.
-
-Usa style="padding: 16px;" para evitar que el contenido quede “pegado”.
-
-GitHub soporta HTML inline, pero ignora CSS externos. Por eso usamos solo estilos básicos (border-radius, object-fit, etc).
-
 ---
 
 ## ✨ Sobre este Repositorio
@@ -98,72 +78,72 @@ java Main
 
 ## 🔍 Galería y Demos
 
-> Aquí te muestro cómo lucen y funcionan algunos retos destacados del curso.
+> Una vitrina visual y funcional de los retos del curso Java SE 2.
+Cada imagen representa un proyecto, con aplicación práctica.
 
 <div align="center">
+  <h2>Sesión 01</h2>
   <table>
     <tr>
       <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="border-radius: 10px; object-fit: cover;" alt="Reto 01 planta industrial"/>
-        <p>
-          <strong>Reto 01:</strong> Producción industrial<br/>
-          📦 Herencia, Polimorfismo y Genéricos.
-        </p>
+        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="border-radius: 10px;" alt="Reto 01 planta industrial"/>
+        <p><strong>Reto 01:</strong> Gestión de órdenes industriales<br/>📦 Genéricos, Polimorfismo y Wildcards</p>
       </td>
       <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="border-radius: 10px; object-fit: cover;" alt="Reto 02 gestión curso"/>
-        <p>
-          <strong>Reto 02:</strong> Gestión de contenidos<br/>
-          🎥 Wildcards + operaciones genéricas.
-        </p>
+        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="border-radius: 10px;" alt="Reto 02 gestión curso"/>
+        <p><strong>Reto 02:</strong> Plataforma educativa<br/>🎥 Wildcards + Streams + Predicate</p>
       </td>
     </tr>
+  </table>
+
+  <h2>Sesión 02</h2>
+  <table>
     <tr>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/64cb3020-23b8-4bb3-b70b-16a57d8d1de1" width="380" height="240" style="border-radius: 10px;" alt="Sistemas espaciales"/>
-        <p>
-          <strong>Sistemas espaciales:</strong><br/>
-          🛰️ Simulación concurrente con <code>ExecutorService</code> y <code>Callable</code>.
-        </p>
+        <p><strong>Reto 01:</strong> Sistemas en misión espacial<br/>🛰️ Callable + ExecutorService</p>
       </td>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/a3d23c0b-42ed-42b8-9f9c-65b14b9929e7" width="380" height="240" style="border-radius: 10px;" alt="Recurso médico"/>
-        <p>
-          <strong>Recurso médico:</strong><br/>
-          🔒 Control exclusivo con <code>ReentrantLock</code>.
-        </p>
+        <p><strong>Reto 02:</strong> Hospital concurrente<br/>🔒 ReentrantLock</p>
       </td>
     </tr>
+  </table>
+
+  <h2>Sesión 03</h2>
+  <table>
     <tr>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/439c9828-2a5b-48d6-9f9e-05c43822bc43" width="380" height="240" style="border-radius: 10px;" alt="Pedidos pizzería"/>
-        <p>
-          <strong>Pizzería:</strong><br/>
-          📞 Confirmación segura con <code>Optional</code> y <code>Stream</code>.
-        </p>
+        <p><strong>Reto 01:</strong> Confirmación de pedidos<br/>📞 Optional + Stream</p>
       </td>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/2acb16eb-d71b-4540-abaa-7607cbf3e01f" width="380" height="240" style="border-radius: 10px;" alt="Encuestas clínica"/>
-        <p>
-          <strong>Clínica:</strong><br/>
-          💬 Seguimiento funcional con <code>flatMap</code>.
-        </p>
+        <p><strong>Reto 02:</strong> Encuestas clínicas<br/>💬 flatMap + Optional + Streams</p>
       </td>
     </tr>
+  </table>
+
+  <h2>Sesión 04</h2>
+  <table>
     <tr>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/cad82150-751d-41c7-901c-ce336328fef1" width="380" height="240" style="border-radius: 10px;" alt="App movilidad"/>
-        <p>
-          <strong>App de movilidad:</strong><br/>
-          🛣️ Asincronía con <code>CompletableFuture</code> y <code>thenCombine</code>.
-        </p>
+        <p><strong>Reto 01:</strong> App de movilidad<br/>🛣️ CompletableFuture + thenCombine</p>
       </td>
       <td align="center" style="padding: 16px;">
         <img src="https://github.com/user-attachments/assets/cb75bb10-7254-4d6e-93ed-9caa788295c5" width="380" height="240" style="border-radius: 10px;" alt="Aeropuerto"/>
-        <p>
-          <strong>Aeropuerto:</strong><br/>
-          ✈️ Condiciones paralelas con <code>allOf</code> + validación robusta.
-        </p>
+        <p><strong>Reto 02:</strong> Control de aterrizajes<br/>✈️ CompletableFuture.allOf</p>
+      </td>
+    </tr>
+  </table>
+
+  <h2>Sesión 05</h2>
+  <table>
+    <tr>
+      <td align="center" colspan="2" style="padding: 16px;">
+        <img src="https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a" width="760" height="260" style="border-radius: 10px;" alt="Meridian Prime sistema reactivo"/>
+        <p><strong>Meridian Prime - Ciudad inteligente</strong><br/>⚡ Programación reactiva con <code>Flux</code> + Backpressure</p>
       </td>
     </tr>
   </table>
