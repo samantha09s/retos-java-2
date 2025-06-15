@@ -45,11 +45,11 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 | Reto     | Tema Principal                      | Estado      | Ver código |
 |----------|-------------------------------------|-------------|--------------|
-| Reto 01  | Tipos primitivos, control de flujo  | ✅ Completo | [Ver archivo](./reto-01/Main.java) |
-| Reto 02  | Ciclos, arrays, matrices            | ✅ Completo | [Ver archivo](./reto-02/Main.java) |
-| Reto 03  | POO: clases, objetos, métodos       | ⏳ En curso | [Ver archivo](./reto-03/Main.java) |
-| Reto 04  | Streams, Lambdas, Funciones         | ⏳ En curso | [Ver archivo](./reto-04/Main.java) |
-| Reto 05  | Threads, concurrencia               | ⏳ Próximamente | (Pendiente) |
+| Sesión 1/Reto 01  | TEMA  | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes) |
+| Sesión 1/Reto 02  | TEMA          | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
+| Sesión 2/Reto 01  | TEMA       | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial) |
+| Sesión 2/Reto 02  | TEMA        | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
+| Sesión 3/Reto 01  | TEMA              | ✅ Completo | [Ver archivo]([Pendiente](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria)) |
 
 > _Explora cada carpeta para ver el avance y los retos explicados paso a paso._
 
