@@ -43,16 +43,16 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 ## 🚀 Retos y Progreso
 
-| Reto     | Tema Principal                      | Estado      | Ver código |
-|----------|-------------------------------------|-------------|--------------|
-| Sesión 1/Reto 01  | TEMA  | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes) |
-| Sesión 1/Reto 02  | TEMA          | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
-| Sesión 2/Reto 01  | TEMA       | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial) |
-| Sesión 2/Reto 02  | TEMA        | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
-| Sesión 3/Reto 01  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria) |
-| Sesión 3/Reto 02  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica) |
-| Sesión 4/Reto 01  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad) |
-| Sesión 4/Reto 02  | TEMA              | ✅ Completo | [Ver archivo](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto) |
+| Reto           | Tema Principal                                       | Estado      | Código |
+|----------------|------------------------------------------------------|-------------|--------|
+| Sesión 1/Reto 01 | Genéricos para órdenes de producción                | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes) |
+| Sesión 1/Reto 02 | Wildcards y filtros de materiales educativos        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
+| Sesión 2/Reto 01 | Programación concurrente con ExecutorService        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial) |
+| Sesión 2/Reto 02 | Control de acceso con ReentrantLock                 | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
+| Sesión 3/Reto 01 | Manejo seguro de datos con Optional y Stream API    | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria) |
+| Sesión 3/Reto 02 | Composición funcional y flatMap                    | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica) |
+| Sesión 4/Reto 01 | Tareas asincrónicas con CompletableFuture           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad) |
+| Sesión 4/Reto 02 | Orquestación de tareas paralelas en aeropuerto      | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto) |
 
 > _Explora cada carpeta para ver el avance y los retos explicados paso a paso._
 
@@ -81,72 +81,104 @@ java Main
 
 ## 🔍 Galería y Demos
 
-> Una vitrina visual y funcional de los retos del curso Java SE 2.
-Cada imagen representa un proyecto, con aplicación práctica.
+> Una vitrina interactiva que muestra tu progreso técnico en Java de forma clara, visual y significativa.
+Explora cada reto práctico dividido por sesión. Esta galería resume tus aprendizajes clave, destacando tu evolución como desarrollador backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
 
 <div align="center">
-  <h2>Sesión 01</h2>
+  <h2>🧪 Sesión 01: Generics & Tipado Seguro</h2>
   <table>
     <tr>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" style="border-radius: 10px;" alt="Reto 01 planta industrial"/>
-        <p><strong>Reto 01:</strong> Gestión de órdenes industriales<br/>📦 Genéricos, Polimorfismo y Wildcards</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/843cd85c-8cca-44f3-9dc6-7bd53b899568" width="380" height="240" alt="Reto 01 Planta industrial"/>
+        <p><strong>Reto 01: Órdenes de Producción en Planta Industrial</strong><br/>
+        Uso de <code>genéricos</code> y <code>wildcards</code> para gestionar distintos tipos de órdenes: en masa, personalizadas y prototipos. Tipado seguro + diseño extensible.</p>
       </td>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" style="border-radius: 10px;" alt="Reto 02 gestión curso"/>
-        <p><strong>Reto 02:</strong> Plataforma educativa<br/>🎥 Wildcards + Streams + Predicate</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2598f85b-ad3c-47ec-a333-d9d68245031f" width="380" height="240" alt="Reto 02 Plataforma educativa"/>
+        <p><strong>Reto 02: Materiales en Plataforma Educativa</strong><br/>
+        Aplicación de <code>bounded wildcards</code> y restricciones de tipo para manipular cursos con materiales heterogéneos: videos, artículos, ejercicios.</p>
       </td>
     </tr>
   </table>
 
-  <h2>Sesión 02</h2>
+  <h2>🔀 Sesión 02: Concurrencia en Java</h2>
   <table>
     <tr>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/64cb3020-23b8-4bb3-b70b-16a57d8d1de1" width="380" height="240" style="border-radius: 10px;" alt="Sistemas espaciales"/>
-        <p><strong>Reto 01:</strong> Sistemas en misión espacial<br/>🛰️ Callable + ExecutorService</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/64cb3020-23b8-4bb3-b70b-16a57d8d1de1" width="380" height="240" alt="Reto 01 Sistemas espaciales"/>
+        <p><strong>Reto 01: Subsistemas en Misión Espacial</strong><br/>
+        Simulación paralela de subsistemas críticos con <code>ExecutorService</code>, <code>Runnable</code> y <code>Future</code>.</p>
       </td>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/a3d23c0b-42ed-42b8-9f9c-65b14b9929e7" width="380" height="240" style="border-radius: 10px;" alt="Recurso médico"/>
-        <p><strong>Reto 02:</strong> Hospital concurrente<br/>🔒 ReentrantLock</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a3d23c0b-42ed-42b8-9f9c-65b14b9929e7" width="380" height="240" alt="Reto 02 recurso médico"/>
+        <p><strong>Reto 02: Acceso a Recurso Médico Crítico</strong><br/>
+        Aplicación de <code>ReentrantLock</code> para controlar acceso seguro a una sala quirúrgica compartida por múltiples profesionales.</p>
       </td>
     </tr>
   </table>
 
-  <h2>Sesión 03</h2>
+  <h2>🧹 Sesión 03: Stream API & Optional</h2>
   <table>
     <tr>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/439c9828-2a5b-48d6-9f9e-05c43822bc43" width="380" height="240" style="border-radius: 10px;" alt="Pedidos pizzería"/>
-        <p><strong>Reto 01:</strong> Confirmación de pedidos<br/>📞 Optional + Stream</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/439c9828-2a5b-48d6-9f9e-05c43822bc43" width="380" height="240" alt="Pedidos pizzería"/>
+        <p><strong>Reto 01: Confirmación de Pedidos en Pizzería</strong><br/>
+        Uso de <code>Optional</code> y <code>Stream</code> para transformar pedidos y generar mensajes robustos ante datos incompletos.</p>
       </td>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/2acb16eb-d71b-4540-abaa-7607cbf3e01f" width="380" height="240" style="border-radius: 10px;" alt="Encuestas clínica"/>
-        <p><strong>Reto 02:</strong> Encuestas clínicas<br/>💬 flatMap + Optional + Streams</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2acb16eb-d71b-4540-abaa-7607cbf3e01f" width="380" height="240" alt="Encuestas clínica"/>
+        <p><strong>Reto 02: Procesamiento Funcional de Encuestas</strong><br/>
+        Aplicación de <code>flatMap</code> y composición funcional para filtrar insights útiles de encuestas clínicas.</p>
       </td>
     </tr>
   </table>
 
-  <h2>Sesión 04</h2>
+  <h2>⚙️ Sesión 04: Programación Asíncrona</h2>
   <table>
     <tr>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/cad82150-751d-41c7-901c-ce336328fef1" width="380" height="240" style="border-radius: 10px;" alt="App movilidad"/>
-        <p><strong>Reto 01:</strong> App de movilidad<br/>🛣️ CompletableFuture + thenCombine</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/cad82150-751d-41c7-901c-ce336328fef1" width="380" height="240" alt="App movilidad"/>
+        <p><strong>Reto 01: Simulación Asíncrona en App de Movilidad</strong><br/>
+        Uso de <code>CompletableFuture</code> para tareas paralelas como cálculo de tarifa, ruta y notificaciones.</p>
       </td>
-      <td align="center" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/cb75bb10-7254-4d6e-93ed-9caa788295c5" width="380" height="240" style="border-radius: 10px;" alt="Aeropuerto"/>
-        <p><strong>Reto 02:</strong> Control de aterrizajes<br/>✈️ CompletableFuture.allOf</p>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/cb75bb10-7254-4d6e-93ed-9caa788295c5" width="380" height="240" alt="Aeropuerto"/>
+        <p><strong>Reto 02: Gestión de Vuelos en Aeropuerto</strong><br/>
+        Integración de flujos concurrentes con manejo de errores, combinando resultados de múltiples fuentes.</p>
       </td>
     </tr>
   </table>
 
-  <h2>Sesión 05</h2>
+  <h2>📡 Sesión 05: Programación Reactiva</h2>
   <table>
     <tr>
-      <td align="center" colspan="2" style="padding: 16px;">
-        <img src="https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a" width="760" height="260" style="border-radius: 10px;" alt="Meridian Prime sistema reactivo"/>
-        <p><strong>Meridian Prime - Ciudad inteligente</strong><br/>⚡ Programación reactiva con <code>Flux</code> + Backpressure</p>
+      <td align="center" colspan="2">
+        <img src="https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a" width="760" height="260" alt="Meridian Prime sistema reactivo"/>
+        <p><strong>Reto 01: Gestión Reactiva en Smart City</strong><br/>
+        Procesamiento no bloqueante con <code>Flux</code> para monitorear sistemas inteligentes en tiempo real.</p>
+      </td>
+      <td
+      <td align="center" colspan="2">
+        <img src="https://github.com/user-attachments/assets/fa55efbc-5d90-4b6d-b38a-9c788f94efe1" width="760" height="260" alt="Signos vitales UCI"/>
+        <p><strong>Reto 02: Monitoreo de Signos Vitales en UCI</strong><br/>
+        Flujo reactivo de datos médicos críticos, con <code>backpressure</code> y alertas personalizadas por paciente.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+  <h2>🧾 Sesión 06: Spring Boot + JPA</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/62184618-d5cd-4b59-a742-df7ab67a22c2" width="380" height="240" alt="Inventario validaciones"/>
+        <p><strong>Reto 01: Registro de Productos para Inventario</strong><br/>
+        Validaciones con <code>@NotBlank</code>, <code>@Min</code> y consultas personalizadas con Spring Data JPA.</p>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/694ed533-67f1-4b30-b392-44a4f15250dd" width="380" height="240" alt="Relación producto-marca"/>
+        <p><strong>Reto 02: Productos por Marca en Tienda en Línea</strong><br/>
+        Relaciones <code>@ManyToOne</code> entre productos y marcas, mostrando agrupamiento y consulta de entidades relacionadas.</p>
       </td>
     </tr>
   </table>
