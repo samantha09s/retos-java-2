@@ -85,7 +85,7 @@ java Main
 Explora cada reto práctico dividido por sesión. Esta galería resume tus aprendizajes clave, destacando tu evolución como desarrollador backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
 
 <div align="center">
-  <h2>🧪 Sesión 01: Generics & Tipado Seguro</h2>
+  <h2 align="center">Sesión 01: Generics & Tipado Seguro</h2>
   <table>
     <tr>
       <td align="center">
@@ -101,7 +101,7 @@ Explora cada reto práctico dividido por sesión. Esta galería resume tus apren
     </tr>
   </table>
 
-  <h2>🔀 Sesión 02: Concurrencia en Java</h2>
+  <h2 align="center">Sesión 02: Concurrencia en Java</h2>
   <table>
     <tr>
       <td align="center">
@@ -117,7 +117,7 @@ Explora cada reto práctico dividido por sesión. Esta galería resume tus apren
     </tr>
   </table>
 
-  <h2>🧹 Sesión 03: Stream API & Optional</h2>
+  <h2 align="center">Sesión 03: Stream API & Optional</h2>
   <table>
     <tr>
       <td align="center">
@@ -133,7 +133,7 @@ Explora cada reto práctico dividido por sesión. Esta galería resume tus apren
     </tr>
   </table>
 
-  <h2>⚙️ Sesión 04: Programación Asíncrona</h2>
+  <h2 align="center">Sesión 04: Programación Asíncrona</h2>
   <table>
     <tr>
       <td align="center">
@@ -149,25 +149,23 @@ Explora cada reto práctico dividido por sesión. Esta galería resume tus apren
     </tr>
   </table>
 
-  <h2>📡 Sesión 05: Programación Reactiva</h2>
+  <h2 align="center">Sesión 05: Programación Reactiva</h2>
   <table>
     <tr>
-      <td align="center" colspan="2">
-        <img src="https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a" width="760" height="260" alt="Meridian Prime sistema reactivo"/>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/136f1a89-ec77-4151-ba69-8d1cb68f943a" width="380" height="240" alt="Meridian Prime sistema reactivo"/>
         <p><strong>Reto 01: Gestión Reactiva en Smart City</strong><br/>
         Procesamiento no bloqueante con <code>Flux</code> para monitorear sistemas inteligentes en tiempo real.</p>
       </td>
-      <td
-      <td align="center" colspan="2">
-        <img src="https://github.com/user-attachments/assets/fa55efbc-5d90-4b6d-b38a-9c788f94efe1" width="760" height="260" alt="Signos vitales UCI"/>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/fa55efbc-5d90-4b6d-b38a-9c788f94efe1" width="380" height="240" alt="Aeropuerto"/>
         <p><strong>Reto 02: Monitoreo de Signos Vitales en UCI</strong><br/>
         Flujo reactivo de datos médicos críticos, con <code>backpressure</code> y alertas personalizadas por paciente.</p>
       </td>
     </tr>
   </table>
-</div>
 
-  <h2>🧾 Sesión 06: Spring Boot + JPA</h2>
+  <h2 align="center">Sesión 06: Spring Boot + JPA</h2>
   <table>
     <tr>
       <td align="center">
