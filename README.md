@@ -43,22 +43,92 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 ## 🚀 Retos y Progreso
 
-| Reto               | Tema Principal                                             | Estado     | Código                                                                                                                    |
-| ------------------ | ---------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Sesión 1 / Reto 01 | Genéricos para órdenes de producción                       | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes)      |
-| Sesión 1 / Reto 02 | Wildcards y filtros de materiales educativos               | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
-| Sesión 2 / Reto 01 | Programación concurrente con ExecutorService               | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial)      |
-| Sesión 2 / Reto 02 | Control de acceso con ReentrantLock                        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
-| Sesión 3 / Reto 01 | Manejo seguro de datos con Optional y Stream API           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria)            |
-| Sesión 3 / Reto 02 | Composición funcional y flatMap                            | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica)             |
-| Sesión 4 / Reto 01 | Tareas asincrónicas con CompletableFuture                  | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad)           |
-| Sesión 4 / Reto 02 | Orquestación de tareas paralelas en aeropuerto             | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto)          |
-| Sesión 5 / Reto 01 | Programación reactiva con Project Reactor (Flux)           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-1)                         |
-| Sesión 5 / Reto 02 | Monitoreo médico en tiempo real con backpressure           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-2)                         |
-| Sesión 6 / Reto 01 | Validaciones con JPA y entidades con Spring Boot           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-1)                         |
-| Sesión 6 / Reto 02 | Relaciones entre entidades con @ManyToOne (marca-producto) | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-2)                         |
+<p><em>Explora cada reto resuelto, ordenado por sesión y tema clave. Cada enlace lleva al código fuente. <strong>¡Vamos aprendiendo paso a paso!</strong></em></p>
 
-> _Explora cada carpeta para ver el avance y los retos explicados paso a paso._
+<table>
+  <thead>
+    <tr>
+      <th>📚 Sesión / Reto</th>
+      <th>Tema Principal</th>
+      <th>Estado</th>
+      <th>🔗 Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Sesión 1 / Reto 01</strong></td>
+      <td>Gestión de órdenes genéricas y procesamiento con lógica de negocio personalizada.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 1 / Reto 02</strong></td>
+      <td>Filtrado y actualización de materiales educativos usando estructuras de datos.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 2 / Reto 01</strong></td>
+      <td>Simulación de sistemas espaciales concurrentes (hilos independientes).</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 2 / Reto 02</strong></td>
+      <td>Control de acceso a recursos compartidos en entornos hospitalarios con sincronización.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 3 / Reto 01</strong></td>
+      <td>Filtrado y transformación de pedidos con Stream API y Optional.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 3 / Reto 02</strong></td>
+      <td>Procesamiento funcional de encuestas clínicas para análisis de satisfacción.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 4 / Reto 01</strong></td>
+      <td>Flujos asincrónicos para calcular rutas y tarifas en una app de movilidad.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 4 / Reto 02</strong></td>
+      <td>Evaluación de condiciones de aterrizaje con tareas no bloqueantes y manejo de errores.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 5 / Reto 01</strong></td>
+      <td>Monitoreo paralelo en ciudades inteligentes con flujos reactivos.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-1">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 5 / Reto 02</strong></td>
+      <td>Procesamiento de datos médicos críticos con backpressure y alertas.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-2">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 6 / Reto 01</strong></td>
+      <td>Validaciones con JPA para simular un sistema realista de inventario.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-1">Ver código</a></td>
+    </tr>
+    <tr>
+      <td><strong>Sesión 6 / Reto 02</strong></td>
+      <td>Relaciones entre entidades usando <code>@ManyToOne</code> para modelar productos y marcas.</td>
+      <td>✅</td>
+      <td><a href="https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-2">Ver código</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -85,8 +155,8 @@ java Main
 
 ## 🔍 Galería y Demos
 
-> Una vitrina interactiva que muestra tu progreso técnico en Java de forma clara, visual y significativa.
-Explora cada reto práctico dividido por sesión. Esta galería resume tus aprendizajes clave, destacando tu evolución como desarrollador backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
+> Una vitrina interactiva que muestra el progreso técnico en Java de forma clara, visual y significativa.
+Explora cada reto práctico dividido por sesión. Esta galería resume los aprendizajes clave, destacando nuestra evolución como desarrolladora backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
 
 <div align="center">
   <h2 align="center">Sesión 01: Generics & Tipado Seguro</h2>
