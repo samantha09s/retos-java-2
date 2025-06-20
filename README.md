@@ -43,16 +43,20 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 ## 🚀 Retos y Progreso
 
-| Reto           | Tema Principal                                       | Estado      | Código |
-|----------------|------------------------------------------------------|-------------|--------|
-| Sesión 1/Reto 01 | Genéricos para órdenes de producción                | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes) |
-| Sesión 1/Reto 02 | Wildcards y filtros de materiales educativos        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
-| Sesión 2/Reto 01 | Programación concurrente con ExecutorService        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial) |
-| Sesión 2/Reto 02 | Control de acceso con ReentrantLock                 | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
-| Sesión 3/Reto 01 | Manejo seguro de datos con Optional y Stream API    | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria) |
-| Sesión 3/Reto 02 | Composición funcional y flatMap                    | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica) |
-| Sesión 4/Reto 01 | Tareas asincrónicas con CompletableFuture           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad) |
-| Sesión 4/Reto 02 | Orquestación de tareas paralelas en aeropuerto      | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto) |
+| Reto               | Tema Principal                                             | Estado     | Código                                                                                                                    |
+| ------------------ | ---------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Sesión 1 / Reto 01 | Genéricos para órdenes de producción                       | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-1/src/gestionordenes)      |
+| Sesión 1 / Reto 02 | Wildcards y filtros de materiales educativos               | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-01/Reto-2/src/plataformaeducativa) |
+| Sesión 2 / Reto 01 | Programación concurrente con ExecutorService               | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-1/src/misionespacial)      |
+| Sesión 2 / Reto 02 | Control de acceso con ReentrantLock                        | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-02/Reto-2/src/gestionhospitalaria) |
+| Sesión 3 / Reto 01 | Manejo seguro de datos con Optional y Stream API           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-1/src/pizzeria)            |
+| Sesión 3 / Reto 02 | Composición funcional y flatMap                            | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-03/Reto-2/src/clinica)             |
+| Sesión 4 / Reto 01 | Tareas asincrónicas con CompletableFuture                  | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-1/src/movilidad)           |
+| Sesión 4 / Reto 02 | Orquestación de tareas paralelas en aeropuerto             | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-04/Reto-2/src/aeropuerto)          |
+| Sesión 5 / Reto 01 | Programación reactiva con Project Reactor (Flux)           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-1)                         |
+| Sesión 5 / Reto 02 | Monitoreo médico en tiempo real con backpressure           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-05/Reto-2)                         |
+| Sesión 6 / Reto 01 | Validaciones con JPA y entidades con Spring Boot           | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-1)                         |
+| Sesión 6 / Reto 02 | Relaciones entre entidades con @ManyToOne (marca-producto) | ✅ Completo | [Ver código](https://github.com/samantha09s/retos-java-2/tree/main/retos_java_2/Sesion-06/Reto-2)                         |
 
 > _Explora cada carpeta para ver el avance y los retos explicados paso a paso._
 
