@@ -22,9 +22,10 @@
 
 ## ✨ Sobre este Repositorio
 
-Este es mi portafolio de retos del curso **Java SE 2 (2025)** impartido por **Tecnolochicas x Bedu**. 
+Este es mi portafolio de retos del curso <strong>Java SE 2 (2025)</strong> impartido por <strong>Tecnolochicas x Bedu</strong>.
 
-Aquí comparto código limpio, comentado y pensado para que otras personas también aprendan. Si estás iniciando en Java o quieres mejorar tu lógica con buenas prácticas, _este repo puede ayudarte_.
+Aquí comparto código limpio, comentado y pensado para que otras personas también aprendan.  
+Si estás iniciando en Java o quieres mejorar tu lógica con buenas prácticas, <em>este repo puede ayudarte</em>.
 
 ---
 
@@ -43,15 +44,16 @@ Aquí comparto código limpio, comentado y pensado para que otras personas tambi
 
 ## 🚀 Retos y Progreso
 
-<p><em>Explora cada reto resuelto, ordenado por sesión y tema clave. Cada enlace lleva al código fuente. <strong>¡Vamos aprendiendo paso a paso!</strong></em></p>
+> Explora cada reto resuelto, ordenado por sesión y tema clave.  
+> <strong>¡Vamos aprendiendo paso a paso!</strong>
 
 <table>
   <thead>
     <tr>
-      <th>📚 Sesión / Reto</th>
+      <th>Sesión / Reto</th>
       <th>Tema Principal</th>
       <th>Estado</th>
-      <th>🔗 Código</th>
+      <th>Código</th>
     </tr>
   </thead>
   <tbody>
@@ -156,7 +158,9 @@ java Main
 ## 🔍 Galería y Demos
 
 > Una vitrina interactiva que muestra el progreso técnico en Java de forma clara, visual y significativa.
-Explora cada reto práctico dividido por sesión. Esta galería resume los aprendizajes clave, destacando nuestra evolución como desarrolladora backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
+
+<strong>Explora cada reto práctico dividido por sesión.</strong> Esta galería resume los aprendizajes clave, destacando nuestra evolución 
+como desarrolladora backend con enfoque en diseño limpio, modularidad y aplicación real del lenguaje.
 
 <div align="center">
   <h2 align="center">Sesión 01: Generics & Tipado Seguro</h2>
